@@ -8,6 +8,7 @@ ejyuso-2@student.ltu.se elvfor-0@student.ltu.se
 
 Our chosen Mini project for course D7041E was to build a multiclass classification neural network model. This was done with inspiration from the following example: https://machinelearningmastery.com/building-a-multiclass-classification-model-in-pytorch/ together with the wine dataset https://archive.ics.uci.edu/dataset/109/wine
 
+Here is the link to the video where we present the Project: https://www.youtube.com/watch?v=1051Y_VhS-0&ab_channel=JennySundstr%C3%B6m
 ## Nested k-folds cross validation explained
 
 https://www.baeldung.com/cs/k-fold-cross-validation
