@@ -21,7 +21,7 @@ When all the installations are completed you should be able to simply run the co
 
 ## Installation for libraries needed to run our project:
 
-pip install matplotlib \n
+pip install matplotlib
 
 pip install numpy
 
