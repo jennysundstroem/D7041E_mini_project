@@ -21,10 +21,15 @@ When all the installations are completed you should be able to simply run the co
 ## Installation for libraries needed to run our project:
 
 pip install matplotlib
+
 pip install numpy
+
 pip install pandas
+
 pip install torch
+
 pip install scikit-learn
+
 pip install tqdm
 
 ## Dataset
